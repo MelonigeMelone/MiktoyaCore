@@ -1,0 +1,12 @@
+name: MiktoyaCore
+version: 1.0
+author: MelonigeMelone
+main: de.melonigemelone.miktoyacore.MiktoyaCore
+
+api-version: 1.8
+
+softdepend: [MiktoyaAPI]
+
+commands:
+  gamemode:
+    aliases: [gm]
